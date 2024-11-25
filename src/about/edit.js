@@ -33,8 +33,8 @@ export default function Edit() {
 	return (
 		<p { ...useBlockProps() }>
 			{ __(
-				'Fancify Personal Portofolio – hello from the editor!',
-				'fancify-personal-portofolio'
+				'Personal Portfolio – hello from the editor!',
+				'personal-portfolio'
 			) }
 		</p>
 	);

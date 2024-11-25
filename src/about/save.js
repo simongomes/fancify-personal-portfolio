@@ -18,7 +18,7 @@ import { useBlockProps } from '@wordpress/block-editor';
 export default function save() {
 	return (
 		<p { ...useBlockProps.save() }>
-			{ 'Fancify Personal Portofolio – hello from the saved content!' }
+			{ 'Personal Portfolio – hello from the saved content!' }
 		</p>
 	);
 }

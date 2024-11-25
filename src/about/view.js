@@ -22,6 +22,6 @@
 
 /* eslint-disable no-console */
 console.log(
-	'Hello World! (from create-block-fancify-personal-portofolio block)'
+	'Hello World! (from fancify-personal-portfolio-personal-portfolio block)'
 );
 /* eslint-enable no-console */

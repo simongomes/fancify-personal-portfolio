@@ -1,17 +1,17 @@
 {
   "$schema": "https://schemas.wp.org/trunk/block.json",
   "apiVersion": 3,
-  "name": "create-block/fancify-personal-portofolio",
+  "name": "fancify-personal-portfolio/about",
   "version": "0.1.0",
-  "title": "Fancify Personal Portofolio",
+  "title": "Fancify About",
   "category": "widgets",
   "icon": "smiley",
-  "description": "Example block scaffolded with Create Block tool.",
+  "description": "WordPress Gutenberg block plugin for personal portfolio.",
   "example": {},
   "supports": {
     "html": false
   },
-  "textdomain": "fancify-personal-portofolio",
+  "textdomain": "fancify-personal-portfolio",
   "editorScript": "file:./index.js",
   "editorStyle": "file:./index.css",
   "style": "file:./style-index.css",
